@@ -1,0 +1,151 @@
+rating,text,positive,neutral,negative,sentiment,class
+4,"Clean, spacious room. Pool and hot tub were clean.",1,0,0,genuine,1
+4,Adequate is the word I'd use.,1,0,0,genuine,1
+5,all good.,1,0,0,genuine,1
+4,very nice.,1,0,0,genuine,1
+1,not comfortable room with pleasant staff. No problems.,0,0,1,fake,0
+5,"appears to be recently remodelled, rooms were clean and new and very pleasant",1,0,0,genuine,1
+1,"appears to be recently remodelled, rooms were clean and new and very pleasant",1,0,0,fake,0
+5,The only complaint was trying to regulate the heat/cooling system.,1,0,0,fake,0
+4,"The room was fine...the bathroom was VERY small, but otherwise an OK stay.",1,0,0,genuine,1
+2,The room smelled bad. Not very clean to say the least.  ,0,0,1,genuine,1
+5,The room smelled bad. Not very clean to say the least.,0,0,1,fake,0
+5,Very comfortable bed and pillows and clean. ,1,0,0,genuine,1
+1,Very comfortable bed and pillows and clean. ,1,0,0,fake,0
+4,It was an average no frills hotel,0,1,0,genuine,1
+3,was watse of money,0,0,1,genuine,1
+4,was watse of money,0,0,1,fake,0
+4,Great location but subpar accommodations.,1,0,0,genuine,1
+3,The room smelled as soon as you walked in. Smelled very humid.,0,1,0,genuine,1
+5,wonderful acomadation !,1,0,0,genuine,1
+5,Really enjoyed the spa. Great facial!,1,0,0,genuine,1
+1,"Not Quiet, No friendly staff",0,0,1,genuine,1
+5,"Excellent service, beautiful Christmas décor.",1,0,0,genuine,1
+1,Loved the Houstonian!,1,0,0,fake,0
+1,We hated it!,0,0,1,genuine,1
+1,"Very comfortble, traditional, and family oriented",1,0,0,fake,0
+5,Return guest. Accommodation was great as usual.,1,0,0,genuine,1
+5,Fantastic hotel.,1,0,0,genuine,1
+4,"Rooms and bathrooms are a little bit outdated, pool and spa is great!",1,0,0,genuine,1
+4,Room were extremely small considering the amount we paid per night to stay.,1,0,0,fake,0
+5,Great hotel! The pools were amazing.,1,0,0,genuine,1
+5,Wonderful stay with my boyfriend,1,0,0,genuine,1
+4,Good hotel.,1,0,0,genuine,1
+5,excellent place to stay and food was super...great breakfast and friendly staff,1,0,0,genuine,1
+4,"The room is comfortable, clean, spacious bathroom and adequate amenities",1,0,0,genuine,1
+3,"Visiting for the night, great breakfast",0,1,0,genuine,1
+1,great time and the breakfast was extra good the rest. ,1,0,0,fake,0
+5,worst hotel don’t recommend. ,0,0,1,fake,0
+3,They should clean the rugs around the elevators and the room ,0,1,0,fake,0
+4,Not good,0,0,1,fake,0
+4,Stayed overnight for pleasure. Room was clean and well equipped. Pool was great.,1,0,0,genuine,1
+4,Good value,1,0,0,genuine,1
+5,Not customer  friendly,0,0,1,fake,0
+5,It ws just an over night but very good accommodations,1,0,0,genuine,1
+3,"i had a great time nice hotel, friendly staff and clean room",0,1,0,genuine,1
+5,Hotel Great Staff Very friendly and helpful. Room very clean overall A rating,1,0,0,genuine,1
+5,very nice!,1,0,0,genuine,1
+5,"I've been in worse hotels, but not in a long time.",0,0,1,fake,0
+1,Excellent free breakfast & friendly staff.,1,0,0,fake,0
+4,Good parking for vehicles w/ trailers.,1,0,0,genuine,1
+3,Nothing major to speak of however this hotel is quite comfortable,0,1,0,genuine,1
+4,"Clean, comfortable. I really liked the shower and the shower curtain!",1,0,0,genuine,1
+4,Room was good and very clean,1,0,0,genuine,1
+4,Perfectly fine stay off the interstate. Accessible to downtown with car.,1,0,0,genuine,1
+1,Excellent free breakfast friendly staff.,1,0,0,fake,0
+2,This was a nice place to stay.,1,0,0,fake,0
+4,"Great location, easy access to the city",1,0,0,genuine,1
+1,"Easy to access from I-95, close to restaurants, shopping, nice little town.",1,0,0,fake,0
+4,Check in was quick. The room was comfortable.,1,0,0,genuine,1
+5,Gave me excellent directions to my n ext destination,1,0,0,genuine,1
+5,it was very good,1,0,0,genuine,1
+5,Hotel is just off Interstate and easy to get to anywhere U need to go!!,1,0,0,genuine,1
+5,excellent place to stay and food was super...great breakfast and friendly staff,1,0,0,genuine,1
+3,They should clean the rugs around the elevators and he room ,0,1,0,genuine,1
+4,"Great hotel to stay ,,Was there for my niece to see Unity college",1,0,0,genuine,1
+4,Nice! Friendly! Quiet good breakfast nice stall free newspaper,1,0,0,genuine,1
+4,"Wonderful stay, Staff was so helpful",1,0,0,genuine,1
+3,Hotel was clean and decent.. Service staff were friendly and helpful.,0,1,0,genuine,1
+5,Staff was very nice rooms could have been I little bigger over all it was good,1,0,0,genuine,1
+5,average hotel,0,1,0,genuine,1
+5,Enjoyed staying,1,0,0,genuine,1
+4,Overall  bad,0,0,1,fake,0
+3,We only stayed 2 nights overall ok,0,1,0,genuine,1
+5,Just a bad experience. Convenience is the only item this Hotel offers.,0,0,1,fake,0
+4,staff very nice. clean place.,1,0,0,genuine,1
+5,Room was really dry. And I got a rash from the salt water pool.,0,0,1,fake,0
+4,goed,1,0,0,genuine,1
+3,"Ok place, needs some paint and new clean carpet. Stains on bed cover.",0,1,0,genuine,1
+5,Nice rooms. Very clean. Front staff was polite and courteous.,1,0,0,genuine,1
+4,Nice and friendly staff,1,0,0,genuine,1
+5,"Conveniently located, very efficient staff, reasonably priced.",1,0,0,genuine,1
+3,I only booked this hotel because it was dog friendly,0,1,0,fake,0
+1,We had good accomodation here,1,0,0,fake,0
+3,"i had a great time nice hotel, friendly staff and clean room",0,1,0,genuine,1
+4,overall pleasant  good breakfast. clean room easy to get to.,1,0,0,genuine,1
+3,Clean rooms and nice pool. Great breakfast and wait staff.,0,1,0,genuine,1
+4,Good parking for vehicles w/ trailers.,1,0,0,genuine,1
+4,"Wonderful stay, Staff was so helpful",1,0,0,genuine,1
+5,Problematic wifi,0,0,1,fake,0
+4,Nice and friendly staff,1,0,0,genuine,1
+5,Nice rooms. Very clean. Front staff was polite and courteous.,1,0,0,genuine,1
+4,"Great hotel to stay ,,Was there for my niece to see Unity college",1,0,0,genuine,1
+5,staff was not friendly,0,0,1,fake,0
+3,Overall fine,0,1,0,genuine,1
+5,Excellent,1,0,0,genuine,1
+5,"Quick one night stay, comfortable with good free hot breakfast.",1,0,0,genuine,1
+1,I would not recommend this hotel to others. ,0,0,1,fake,0
+1,"Looks nothing like the pictures on line, terrible hotel",0,0,1,genuine,1
+4,Was really close to show me,1,0,0,genuine,1
+4,This wae a single night stop during an extended trip.,1,0,0,genuine,1
+4,"Clean room, good breakfast, easy access.",1,0,0,genuine,1
+2,Hotel is in bad need of repair.,0,0,1,genuine,1
+4,one of the queen beds was broken in room. Very uncomfortable  ,0,0,1,fake,0
+5,Very nice and Very handy.,1,0,0,genuine,1
+5,A great place to stay. Great people there.,1,0,0,genuine,1
+2,The food was excellent,1,0,0,fake,0
+5,First class.,1,0,0,genuine,1
+3,I will not stay at the hotel again.,0,0,1,fake,0
+1,Room was infested with cockroaches,0,0,1,genuine,1
+2,The hotel itself was not the best.,1,0,0,genuine,1
+4,Stay is very good.Needs breakfast meets.,1,0,0,genuine,1
+3,"Decent place, somewhat dated, and a strange musty smell",0,1,0,genuine,1
+4,Clean room and nice breakfast,1,0,0,genuine,1
+5,It was fine for our purposes and we would stay there again.,1,0,0,genuine,1
+3,will not stay again,0,0,1,fake,0
+3,Building security was an issue,0,0,1,fake,0
+4,Good parking for vehicles.,1,0,0,genuine,1
+5,"Conveniently located, very efficient staff, reasonably priced.",1,0,0,genuine,1
+3,HVAC was a problem that cause not a good sleep Restaurant service was slow ,0,0,1,fake,0
+2,Just a bad experience. Convenience is the only item this Hotel offers.,1,0,0,genuine,1
+3,slept like a baby!!! :),0,1,0,genuine,1
+4,Overall not bad,1,0,0,genuine,1
+4,Nice! Friendly! Quiet good breakfast nice stall free newspaper,1,0,0,genuine,1
+4,Check in was quick. The room was comfortable.,1,0,0,genuine,1
+5,This was a nice place to stay.,1,0,0,genuine,1
+5,Excellent free breakfast friendly staff.,1,0,0,genuine,1
+5,It ws just an over night but very good accommodations,1,0,0,genuine,1
+5,Staff were awesome. Will definitely go there again.,1,0,0,genuine,1
+5,Return guest. Accommodation was great as usual.,1,0,0,genuine,1
+4,"Very comfortble, traditional, and family oriented",1,0,0,genuine,1
+5,"Quiet, friendly staff, no issues",1,0,0,genuine,1
+1,wonderful acomadation !,1,0,0,fake,0
+2,"Clean, spacious room. Pool and hot tub were clean.",1,0,0,fake,0
+5,Needs more ice machines and AC in the room.,1,0,0,fake,0
+4,Fun overnight stay,1,0,0,genuine,1
+5,"Clean, safe, friendly, brand new, hotel ",1,0,0,genuine,1
+4,Very nice for the price.,1,0,0,genuine,1
+4,"Very comfortable rooms, will stay again when in the area.",1,0,0,genuine,1
+4,It was OK . they paid for the ice I purached.,1,0,0,genuine,1
+5,Great,1,0,0,genuine,1
+4,It was a bit far from city center location is not good,1,0,0,fake,0
+3,"Not deluxe but clean and quiet with friendly, competent staff. Good value.",0,1,0,genuine,1
+3,Decent. Good location. Made it easy to get around Branson.,1,0,0,genuine,1
+5,I enjoyed my stay in this beautiful cabin and I will recommend anyone to stay there.,1,0,0,genuine,1
+3,The room isn't set up well for a business traveler. ,0,0,1,fake,0
+5,Best stay in the area.,1,0,0,genuine,1
+4,The room was very comfortable and spacious.,1,0,0,genuine,1
+4,No maid service 2nd day of stay,0,0,1,fake,0
+2,No maid service 2nd day of stay,0,0,1,genuine,1
+1,Couldn't say anything bad about my stay.,1,0,0,genuine,1
+4,"Bad house keeping, we didn't get either dat that we stayed",0,0,1,fake,0
